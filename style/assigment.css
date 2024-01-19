@@ -1,0 +1,11 @@
+header{
+    background: #FFF;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+nav li a{
+    text-decoration: none;
+    
+}
